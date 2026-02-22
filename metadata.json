@@ -1,0 +1,5 @@
+{
+  "name": "SliceMaster - Custom Pizza Builder",
+  "description": "A full-stack pizza ordering platform with custom builder, inventory management, and real-time order tracking.",
+  "requestFramePermissions": []
+}
